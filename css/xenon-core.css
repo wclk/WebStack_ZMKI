@@ -1832,7 +1832,9 @@ body {
 }
 
 .page-container .main-content {
-	display: table-cell;
+	display: block;
+	margin-top: 30px;
+	/*display: table-cell;*/
 	position: relative;
 	z-index: 1;
 	padding: 30px;
