@@ -1,7 +1,7 @@
 # WebStack_ZMKI
  基于WebStacka前端模板三次开发
 
-钻芒二开版特性<h2><span style="font-family: 'trebuchet ms', geneva, sans-serif;">钻芒二开版特性</span></h2>
+<h2><span style="font-family: 'trebuchet ms', geneva, sans-serif;">钻芒二开版特性</span></h2>
 <ul>
  	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">新增顶部导航栏，集成心知天气</span></li>
  	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">全局新增暗黑模式切换，夜晚自动开启</span></li>
