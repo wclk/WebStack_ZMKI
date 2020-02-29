@@ -29,7 +29,7 @@
   <![endif]-->
   <!-- 通过自有函数输出HTML头部信息 -->
   <?php $this->header(); ?>
- <!--* @version 4.0 _zmki0.2.23-->
+ <!--* @version 4.0 _zmki0.2.29-->
 </head> 
  <body class="page-body <?php echo($_COOKIE['night'] == '1' ? 'night' : ''); ?>">
     <!-- skin-white -->

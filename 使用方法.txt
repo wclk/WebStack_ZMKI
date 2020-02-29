@@ -1,0 +1,8 @@
+请将WebStack_zmki_X.XX.XX.zip解压到typecho主题目录 /usr/themes 下使用
+
+如果启用主题提示 主题风格不存在，请将主题文件夹名称改为WebStack
+
+admin 和 var 请覆盖到网站根目录，主要是修改typecho程序，让其实现支持自定义排序功能
+
+admin 和 var 文件使用SEOGO原版即可。可前往下载 亦可前往zmki交流群:  737656800 群文件免费下载  群内版本包内附带。
+

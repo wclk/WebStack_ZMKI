@@ -4,7 +4,7 @@
  * 
  * @package WebStack
  * @author SEOGO运营狗
- * @version 4.0 _钻芒二开优化版0.2.11
+ * @version 4.0 _钻芒二开优化版0.2.29
  * @link https://www.seogo.me/
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;

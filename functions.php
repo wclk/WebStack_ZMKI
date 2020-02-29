@@ -10,7 +10,7 @@ function themeConfig($form) {
 	$check_host = 'http://tool.sq.zmki.cn/update.php';  
 	$check_message = $check_host . '?a=check_message&u=' . $_SERVER['HTTP_HOST'];
 	$message = file_get_contents($check_message); 
-    $v_time='0.2.23'; 
+    $v_time='0.2.29'; 
 	if ($v_time == $message) {
 	echo	'当前版本：'.'V'.$v_time."&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp".'最新版本:'.'V'.$message;
 	} else  if ($v_time > $message){
