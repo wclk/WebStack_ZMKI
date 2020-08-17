@@ -31,8 +31,8 @@ $check_host = 'http://tool.sq.zmki.cn/update.php';$client_check = $check_host . 
 					    var s = document.getElementsByTagName("script")[0];
 					    s.parentNode.insertBefore(bp, s);
 					})();
+					</script>
 					 <?php if($this->options->zmki_time_no == '1'): ?> 
-						</script>				 
 					                  站点已稳定运行：<SPAN id=span_dt_dt style="color: #2F889A;"></SPAN> 
 					                  <script language=javascript>function show_date_time(){
 					                    window.setTimeout("show_date_time()", 1000);
